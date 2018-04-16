@@ -4,7 +4,7 @@
 
 
     <filter root="/conf/citi" mode="merge"/>
-
+	<filter root="/content/citi" mode="merge"/>
 
 
 </workspaceFilter>

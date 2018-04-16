@@ -122,16 +122,16 @@
 				<artifactId>content-package-maven-plugin</artifactId>
 				<extensions>true</extensions>
 				<configuration>
-					<group>aem-guides/wknd</group>
+					<group>aem-citi/citi</group>
 					<filterSource>src/main/content/META-INF/vault/filter.xml</filterSource>
 					<properties>
 						<acHandling>merge_preserve</acHandling>
 					</properties>
 					<embeddeds>
 						<embedded>
-							<groupId>com.adobe.aem.guides</groupId>
-							<artifactId>wknd-sites-guide.core</artifactId>
-							<target>/apps/wknd/install</target>
+							<groupId>com.adobe.aem.citi</groupId>
+							<artifactId>aem-citi.core</artifactId>
+							<target>/apps/citi/install</target>
 						</embedded>
 					</embeddeds>
 
