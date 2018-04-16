@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="39fc86a6-0516-44f8-9fce-12d298e71f7f">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/banners/hiltonHHonnors-logo.png"
+        jcr:lastModified="{Date}2018-04-16T15:23:23.231+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}32"
+            dam:Comments="Software: Adobe ImageReady&#xa;XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?> &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        &quot;> &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;> &lt;rdf:Description rdf:about=&quot;&quot; xmlns:xmp=&quot;http://ns.adobe.com/xap/1.0/&quot; xmlns:xmpMM=&quot;http://ns.adobe.com/xap/1.0/mm/&quot; xmlns:stRef=&quot;http://ns.adobe.com/xap/1.0/sType/ResourceRef#&quot; xmp:CreatorTool=&quot;Adobe Photoshop CC 2015 (Windows)&quot; xmpMM:InstanceID=&quot;xmp.iid:F7EA4FAE80F911E6B8BEEEA65E4B3556&quot; xmpMM:DocumentID=&quot;xmp.did:F7EA4FAF80F911E6B8BEEEA65E4B3556&quot;> &lt;xmpMM:DerivedFrom stRef:instanceID=&quot;xmp.iid:F7EA4FAC80F911E6B8BEEEA65E4B3556&quot; stRef:documentID=&quot;xmp.did:F7EA4FAD80F911E6B8BEEEA65E4B3556&quot;/> &lt;/rdf:Description> &lt;/rdf:RDF> &lt;/x:xmpmeta> &lt;?xpacket end=&quot;r&quot;?>&#xa;"
+            dam:extracted="{Date}2018-04-16T15:23:22.984+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}2"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="e6283fff128cca42b2e1d81528cf75eff575ffb1"
+            dam:size="{Long}5384"
+            dc:format="image/png"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}56"
+            tiff:ImageWidth="{Long}258"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Windows)"
+            xmpMM:DocumentID="xmp.did:F7EA4FAF80F911E6B8BEEEA65E4B3556"
+            xmpMM:InstanceID="xmp.iid:F7EA4FAE80F911E6B8BEEEA65E4B3556">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:F7EA4FAD80F911E6B8BEEEA65E4B3556"
+                stRef:instanceID="xmp.iid:F7EA4FAC80F911E6B8BEEEA65E4B3556"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="19b21995-3867-4851-ad63-dfb9f7294b31">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/duck_3x.png"
+        jcr:lastModified="{Date}2018-04-16T15:22:40.257+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:Comments="Software: Adobe ImageReady&#xa;XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?> &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c111 79.158325, 2015/09/10-01:10:20        &quot;> &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;> &lt;rdf:Description rdf:about=&quot;&quot; xmlns:xmp=&quot;http://ns.adobe.com/xap/1.0/&quot; xmlns:xmpMM=&quot;http://ns.adobe.com/xap/1.0/mm/&quot; xmlns:stRef=&quot;http://ns.adobe.com/xap/1.0/sType/ResourceRef#&quot; xmp:CreatorTool=&quot;Adobe Photoshop CC 2015 (Macintosh)&quot; xmpMM:InstanceID=&quot;xmp.iid:D3B8803725EF11E6B107E1CBC447CEA2&quot; xmpMM:DocumentID=&quot;xmp.did:D3B8803825EF11E6B107E1CBC447CEA2&quot;> &lt;xmpMM:DerivedFrom stRef:instanceID=&quot;xmp.iid:D3B8803525EF11E6B107E1CBC447CEA2&quot; stRef:documentID=&quot;xmp.did:D3B8803625EF11E6B107E1CBC447CEA2&quot;/> &lt;/rdf:Description> &lt;/rdf:RDF> &lt;/x:xmpmeta> &lt;?xpacket end=&quot;r&quot;?>&#xa;"
+            dam:extracted="{Date}2018-04-16T15:22:39.812+05:30"
+            dam:Fileformat="PNG"
+            dam:MIMEtype="image/png"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}2"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="919277c126a5393a21cf05965c12c61bc10865a6"
+            dam:size="{Long}100114"
+            dc:format="image/png"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}750"
+            tiff:ImageWidth="{Long}717"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:D3B8803825EF11E6B107E1CBC447CEA2"
+            xmpMM:InstanceID="xmp.iid:D3B8803725EF11E6B107E1CBC447CEA2">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:D3B8803625EF11E6B107E1CBC447CEA2"
+                stRef:instanceID="xmp.iid:D3B8803525EF11E6B107E1CBC447CEA2"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="2c0cbfaf-5d8b-477f-885e-86f72ee2443c">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/banners/Q4_Brochure_PrimaryModule_Mobile.jpg"
+        jcr:lastModified="{Date}2018-04-16T15:23:25.490+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-04-16T15:23:25.185+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="ed4e0c5459b346e6468838384079f3a5b9e771f6"
+            dam:size="{Long}163717"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}452"
+            tiff:ImageWidth="{Long}628"
+            xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:2A6C7D7087F111E6AAE69AB0283DF78E"
+            xmpMM:InstanceID="xmp.iid:2A6C7D6F87F111E6AAE69AB0283DF78E"
+            xmpMM:OriginalDocumentID="xmp.did:8493F99821206811822A987B840F6F3D">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:4e7f08af-842b-1178-b143-c27fca78ab67"
+                stRef:instanceID="xmp.iid:777f3859-9a53-4870-a861-dc1aef3275b4"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

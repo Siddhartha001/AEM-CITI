@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e74d1fc8-b30a-4f21-b556-2e0f37be5505">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/banners/jet-blue-banner-320.jpg"
+        jcr:lastModified="{Date}2018-04-16T15:23:23.392+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-04-16T15:23:23.053+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="affb1f745de6301e11444ae09107d7e1e10b4fd9"
+            dam:size="{Long}36435"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}234"
+            tiff:ImageWidth="{Long}320"
+            xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:A1225CBD80CE11E6BFE4D73D64232B90"
+            xmpMM:InstanceID="xmp.iid:A1225CBC80CE11E6BFE4D73D64232B90"
+            xmpMM:OriginalDocumentID="xmp.did:9BC9EE50ED216811822A94B58AD4A241"
+            xmpRights:Marked="{Boolean}false">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:9BC9EE50ED216811822A94B58AD4A241"
+                stRef:instanceID="xmp.iid:9554CB81EF236811822A94B58AD4A241"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="d65bdfb0-0ac6-485d-bb9e-417185f53860">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/favicon.ico"
+        jcr:lastModified="{Date}2018-04-16T15:22:39.851+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:extracted="{Date}2018-04-16T15:22:39.812+05:30"
+            dam:sha1="c199e7afadaacacb37b5c3a2f2d3ead31d8887d3"
+            dam:size="{Long}10990"
+            dc:format="image/x-icon"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

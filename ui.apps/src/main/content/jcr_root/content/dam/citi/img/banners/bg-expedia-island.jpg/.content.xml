@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="0b204cbf-6414-43b6-b07b-6c09d29f33f5">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/banners/bg-expedia-island.jpg"
+        jcr:lastModified="{Date}2018-04-16T15:23:21.814+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-04-16T15:23:20.614+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="0e3bef2165d49b08719e03428d0ac40c76ac4adf"
+            dam:size="{Long}418301"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}452"
+            tiff:ImageWidth="{Long}1500"
+            xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:9ED0685CDE7011E58961C702E236943B"
+            xmpMM:InstanceID="xmp.iid:9ED0685BDE7011E58961C702E236943B"
+            xmpMM:OriginalDocumentID="xmp.did:8493F99821206811822A987B840F6F3D">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:f1ea0137-f73b-1178-a8d5-d11db4cca0a4"
+                stRef:instanceID="xmp.iid:1FE4BF2C61206811822AAC29522B5C06"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

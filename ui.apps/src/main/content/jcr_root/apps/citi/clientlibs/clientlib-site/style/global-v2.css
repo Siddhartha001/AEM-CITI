@@ -20,28 +20,28 @@
  * =======================================================*/
 @font-face {
   font-family: "InterstateBold";
-  src: url("../fonts/Interstate-Bold.eot");
-  src: url("../fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Bold.woff") format("woff"), url("../fonts/Interstate-Bold.ttf") format("truetype"), url("../fonts/Interstate-Bold.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Bold.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Bold.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Bold.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateExtraLight";
-  src: url("../fonts/Interstate-ExtraLight.eot");
-  src: url("../fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-ExtraLight.woff") format("woff"), url("../fonts/Interstate-ExtraLight.ttf") format("truetype"), url("../fonts/Interstate-ExtraLight.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-ExtraLight.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateLight";
-  src: url("../fonts/Interstate-Light.eot");
-  src: url("../fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Light.woff") format("woff"), url("../fonts/Interstate-Light.ttf") format("truetype"), url("../fonts/Interstate-Light.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Light.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Light.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Light.svg#citi") format("svg");
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateRegular";
-  src: url("../fonts/Interstate-Regular.eot");
-  src: url("../fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Regular.woff") format("woff"), url("../fonts/Interstate-Regular.ttf") format("truetype"), url("../fonts/Interstate-Regular.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Regular.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Regular.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Regular.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -930,11 +930,11 @@ body {
 
 #header-desktop .bluewave,
 #header-mobile .bluewave {
-  background: url(../img/unitedstates/bg-gradient-header.jpg) top left repeat-x; }
+  background: url(/content/dam/citi/img/unitedstates/bg-gradient-header.jpg) top left repeat-x; }
 
 #header-desktop .bluewave.orangewave,
 #header-mobile .bluewave.orangewave {
-  background: url(../img/unitedstates/bg-gradient-att-header.jpg) top left repeat-x; }
+  background: url(/content/dam/citi/img/unitedstates/bg-gradient-att-header.jpg) top left repeat-x; }
 
 #header-desktop .main-menu .accessible-megamenu-panel .side-link-shop,
 #header-mobile .main-menu .accessible-megamenu-panel .side-link-shop {
@@ -2808,11 +2808,11 @@ TODO:
     z-index: 100;
     position: absolute;
     top: 0;
-    background: url(../img/singapore/bg-gradient-header-mobile.jpg) top left repeat-x;
+    background: url(/content/dam/citi/img/singapore/bg-gradient-header-mobile.jpg) top left repeat-x;
     background: linear-gradient(to bottom, #16aeee 0%, #073677 100%); }
     @media (min-width: 960px) {
       #header-mobile .bluewave {
-        background: url(../img/singapore/bg-gradient-header.jpg) top left repeat-x;
+        background: url(/content/dam/citi/img/singapore/bg-gradient-header.jpg) top left repeat-x;
         height: 75px; } }
     #header-mobile .bluewave.sears-header {
       width: 100%;
@@ -4767,16 +4767,16 @@ TODO:
       display: none; } }
 
 .sears-shirts {
-  background-image: url(../img/unitedstates/hero-shirts.jpg); }
+  background-image: url(/content/dam/citi/img/unitedstates/hero-shirts.jpg); }
 
 .hero-mountains {
-  background-image: url(../img/unitedstates/hero_mountains.jpg); }
+  background-image: url(/content/dam/citi/img/unitedstates/hero_mountains.jpg); }
 
 .do-more {
-  background-image: url(../img/unitedstates/hero_domore.jpg); }
+  background-image: url(/content/dam/citi/img/unitedstates/hero_domore.jpg); }
 
 .sears-transfer {
-  background-image: url(../img/unitedstates/hero_sears-transfer.jpg); }
+  background-image: url(/content/dam/citi/img/unitedstates/hero_sears-transfer.jpg); }
 
 .promo-wrapper {
   min-height: 455px; }
@@ -5000,7 +5000,7 @@ section {
     left: 0;
     height: 25px;
     z-index: 75;
-    background: url(../img/bg-shadow-top.png) top center no-repeat;
+    background: url(/content/dam/citi/img/bg-shadow-top.png) top center no-repeat;
     opacity: .5; }
 
 button.prev-arrow:focus, button.next-arrow:focus {
@@ -5301,7 +5301,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
         margin: auto; } }
 
 .bg-support {
-  background-image: url(../img/unitedstates/bg-thankyou-sears-support.jpg); }
+  background-image: url(/content/dam/citi/img/unitedstates/bg-thankyou-sears-support.jpg); }
 
 .tab-list {
   list-style-type: none; }
@@ -5538,7 +5538,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
   background-position: -24px 0;
   background-repeat: no-repeat; }
   .tooltip-target:not(input) {
-    background-image: url("../../img/tooltip.png"); }
+    background-image: url("/content/dam/citi/img/tooltip.png"); }
   .tooltip-target:hover {
     cursor: pointer; }
   .tooltip-target.tooltip-active {
@@ -6699,7 +6699,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff;
     height: 340px;
     background-size: cover;
-    background-image: url("../../img/faq/faq-hero-bg.jpg");
+    background-image: url("/content/dam/citi/img/faq/faq-hero-bg.jpg");
     font-family: "InterstateLight", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin-bottom: 25px;
     white-space: nowrap;
@@ -7011,7 +7011,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     top: 0;
     height: 25px;
     z-index: 75;
-    background: url(../../img/bg-shadow-top.png) top center no-repeat; }
+    background: url(/content/dam/citi/img/bg-shadow-top.png) top center no-repeat; }
   #offers .offer {
     position: relative;
     z-index: 50; }
@@ -7202,7 +7202,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     top: 0;
     height: 25px;
     z-index: 75;
-    background: url(../img/bg-shadow-top.png) top center no-repeat;
+    background: url(/content/dam/citi/img/bg-shadow-top.png) top center no-repeat;
     opacity: 1; }
   #rewards.homepage-rewards .grid-container,
   #travel.homepage-travel .grid-container, #travel-inStyle.homepage-travel .grid-container {
@@ -7292,7 +7292,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-convertible .background .the-background,
   #travel.homepage-travel.background-convertible .background .the-background, #travel-inStyle.homepage-travel.background-convertible .background .the-background {
-    background: url(../img/travel/hero-convertible.jpg) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-convertible.jpg) bottom center no-repeat;
     background-size: cover; }
     @media (max-width: 480px) {
       #rewards.homepage-rewards.background-convertible .background .the-background,
@@ -7304,19 +7304,19 @@ button.prev-arrow:focus, button.next-arrow:focus {
       margin-top: 85px; } }
   #rewards.homepage-rewards.background-couple .background .the-background,
   #travel.homepage-travel.background-couple .background .the-background, #travel-inStyle.homepage-travel.background-couple .background .the-background {
-    background: url(../img/travel/hero-couple.jpg) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-couple.jpg) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-couple .section-header a,
   #travel.homepage-travel.background-couple .section-header a, #travel-inStyle.homepage-travel.background-couple .section-header a {
     color: #fff; }
   #rewards.homepage-rewards.bg-select-and-credit-my .background .the-background,
   #travel.homepage-travel.bg-select-and-credit-my .background .the-background, #travel-inStyle.homepage-travel.bg-select-and-credit-my .background .the-background {
-    background: url(../img/banners/bg-select-and-credit-my.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/banners/bg-select-and-credit-my.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.bg-select-and-credit-my .background .the-background,
       #travel.homepage-travel.bg-select-and-credit-my .background .the-background, #travel-inStyle.homepage-travel.bg-select-and-credit-my .background .the-background {
-        background: url(../img/banners/bg-snc-mobile.png) bottom center no-repeat;
+        background: url(/content/dam/citi/img/banners/bg-snc-mobile.png) bottom center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.bg-select-and-credit-my .section-header h2.rewards-title, #rewards.homepage-rewards.bg-select-and-credit-my .section-header h1, #rewards.homepage-rewards.bg-select-and-credit-my .section-header #travel-subtitle-default div,
   #travel.homepage-travel.bg-select-and-credit-my .section-header h2.rewards-title,
@@ -7325,14 +7325,14 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #303030; }
   #rewards.homepage-rewards.background-travellers .background .the-background,
   #travel.homepage-travel.background-travellers .background .the-background, #travel-inStyle.homepage-travel.background-travellers .background .the-background {
-    background: url(../img/travel/hero-travellers.png) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-travellers.png) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-travellers .section-header a,
   #travel.homepage-travel.background-travellers .section-header a, #travel-inStyle.homepage-travel.background-travellers .section-header a {
     color: #fff; }
   #rewards.homepage-rewards.background-pool .background .the-background,
   #travel.homepage-travel.background-pool .background .the-background, #travel-inStyle.homepage-travel.background-pool .background .the-background {
-    background: url(../img/travel/hero-pool.png) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-pool.png) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-pool .section-header a,
   #travel.homepage-travel.background-pool .section-header a, #travel-inStyle.homepage-travel.background-pool .section-header a {
@@ -7352,7 +7352,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-bungalows .background .the-background,
   #travel.homepage-travel.background-bungalows .background .the-background, #travel-inStyle.homepage-travel.background-bungalows .background .the-background {
-    background: url(../img/travel/hero-bungalows.jpg) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-bungalows.jpg) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-goldengate .section-header h2.rewards-title, #rewards.homepage-rewards.background-goldengate h1,
   #travel.homepage-travel.background-goldengate .section-header h2.rewards-title,
@@ -7369,7 +7369,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-goldengate .background .the-background,
   #travel.homepage-travel.background-goldengate .background .the-background, #travel-inStyle.homepage-travel.background-goldengate .background .the-background {
-    background: url(../img/travel/hero-golden-gate.jpg) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-golden-gate.jpg) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-photographer .section-header h2.rewards-title, #rewards.homepage-rewards.background-photographer h1,
   #travel.homepage-travel.background-photographer .section-header h2.rewards-title,
@@ -7386,7 +7386,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #303030; }
   #rewards.homepage-rewards.background-photographer .background .the-background,
   #travel.homepage-travel.background-photographer .background .the-background, #travel-inStyle.homepage-travel.background-photographer .background .the-background {
-    background: url(../img/travel/hero-photograph.jpg) bottom center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-photograph.jpg) bottom center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-woman-clothing .section-header h2.rewards-title, #rewards.homepage-rewards.background-woman-clothing h1,
   #travel.homepage-travel.background-woman-clothing .section-header h2.rewards-title,
@@ -7403,12 +7403,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-woman-clothing .background .the-background,
   #travel.homepage-travel.background-woman-clothing .background .the-background, #travel-inStyle.homepage-travel.background-woman-clothing .background .the-background {
-    background: url(../img/travel/hero-woman-clothing.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-woman-clothing.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 680px) {
       #rewards.homepage-rewards.background-woman-clothing .background .the-background,
       #travel.homepage-travel.background-woman-clothing .background .the-background, #travel-inStyle.homepage-travel.background-woman-clothing .background .the-background {
-        background: url(../img/travel/hero-woman-clothing-mobile.jpg) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-woman-clothing-mobile.jpg) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-woman-dress .section-header h2.rewards-title, #rewards.homepage-rewards.background-woman-dress h1,
   #travel.homepage-travel.background-woman-dress .section-header h2.rewards-title,
@@ -7419,12 +7419,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-woman-dress .background .the-background,
   #travel.homepage-travel.background-woman-dress .background .the-background, #travel-inStyle.homepage-travel.background-woman-dress .background .the-background {
-    background: url(../img/travel/hero-woman-dress.png) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-woman-dress.png) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-woman-dress .background .the-background,
       #travel.homepage-travel.background-woman-dress .background .the-background, #travel-inStyle.homepage-travel.background-woman-dress .background .the-background {
-        background: url(../img/travel/hero-woman-dress-mobile.png) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-woman-dress-mobile.png) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-candy .section-header h2.rewards-title, #rewards.homepage-rewards.background-candy h1,
   #travel.homepage-travel.background-candy .section-header h2.rewards-title,
@@ -7435,12 +7435,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-candy .background .the-background,
   #travel.homepage-travel.background-candy .background .the-background, #travel-inStyle.homepage-travel.background-candy .background .the-background {
-    background: url(../img/travel/hero-candy.png) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-candy.png) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-candy .background .the-background,
       #travel.homepage-travel.background-candy .background .the-background, #travel-inStyle.homepage-travel.background-candy .background .the-background {
-        background: url(../img/travel/hero-candy-mobile.png) bottom center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-candy-mobile.png) bottom center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-groceries .section-header h2.rewards-title, #rewards.homepage-rewards.background-groceries h1,
   #travel.homepage-travel.background-groceries .section-header h2.rewards-title,
@@ -7451,7 +7451,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-groceries .background .the-background,
   #travel.homepage-travel.background-groceries .background .the-background, #travel-inStyle.homepage-travel.background-groceries .background .the-background {
-    background: url(../img/travel/hero-groceries.png) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-groceries.png) top center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-shopping .section-header h2.rewards-title, #rewards.homepage-rewards.background-shopping h1,
   #travel.homepage-travel.background-shopping .section-header h2.rewards-title,
@@ -7462,12 +7462,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-shopping .background .the-background,
   #travel.homepage-travel.background-shopping .background .the-background, #travel-inStyle.homepage-travel.background-shopping .background .the-background {
-    background: url(../img/travel/shopping.png) center center no-repeat;
+    background: url(/content/dam/citi/img/travel/shopping.png) center center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-shopping .background .the-background,
       #travel.homepage-travel.background-shopping .background .the-background, #travel-inStyle.homepage-travel.background-shopping .background .the-background {
-        background: url(../img/travel/shopping-mobile.png) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/shopping-mobile.png) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-bonappetit .section-header h2.rewards-title, #rewards.homepage-rewards.background-bonappetit h1,
   #travel.homepage-travel.background-bonappetit .section-header h2.rewards-title,
@@ -7484,7 +7484,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-bonappetit .background .the-background,
   #travel.homepage-travel.background-bonappetit .background .the-background, #travel-inStyle.homepage-travel.background-bonappetit .background .the-background {
-    background: url(../img/travel/bonappetit-serving.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/bonappetit-serving.jpg) top center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-bonappetit2 .section-header h2.rewards-title, #rewards.homepage-rewards.background-bonappetit2 h1,
   #travel.homepage-travel.background-bonappetit2 .section-header h2.rewards-title,
@@ -7501,7 +7501,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-bonappetit2 .background .the-background,
   #travel.homepage-travel.background-bonappetit2 .background .the-background, #travel-inStyle.homepage-travel.background-bonappetit2 .background .the-background {
-    background: url(../img/travel/bonappetit.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/bonappetit.jpg) top center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-bonappetit3 .section-header h2.rewards-title, #rewards.homepage-rewards.background-bonappetit3 h1,
   #travel.homepage-travel.background-bonappetit3 .section-header h2.rewards-title,
@@ -7518,7 +7518,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-bonappetit3 .background .the-background,
   #travel.homepage-travel.background-bonappetit3 .background .the-background, #travel-inStyle.homepage-travel.background-bonappetit3 .background .the-background {
-    background: url(../img/travel/bonappetit-small-plates.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/bonappetit-small-plates.jpg) top center no-repeat;
     background-size: cover; }
   #rewards.homepage-rewards.background-woman-shopping .section-header h2.rewards-title, #rewards.homepage-rewards.background-woman-shopping h1,
   #travel.homepage-travel.background-woman-shopping .section-header h2.rewards-title,
@@ -7535,12 +7535,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-woman-shopping .background .the-background,
   #travel.homepage-travel.background-woman-shopping .background .the-background, #travel-inStyle.homepage-travel.background-woman-shopping .background .the-background {
-    background: url(../img/travel/hero-woman-shopping.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-woman-shopping.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 620px) {
       #rewards.homepage-rewards.background-woman-shopping .background .the-background,
       #travel.homepage-travel.background-woman-shopping .background .the-background, #travel-inStyle.homepage-travel.background-woman-shopping .background .the-background {
-        background: url(../img/travel/hero-woman-shopping-mobile.jpg) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-woman-shopping-mobile.jpg) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-surf .section-header h2.rewards-title, #rewards.homepage-rewards.background-surf h1,
   #travel.homepage-travel.background-surf .section-header h2.rewards-title,
@@ -7557,17 +7557,17 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #fff; }
   #rewards.homepage-rewards.background-surf .background .the-background,
   #travel.homepage-travel.background-surf .background .the-background, #travel-inStyle.homepage-travel.background-surf .background .the-background {
-    background: url(../img/travel/hero-surf.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-surf.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-surf .background .the-background,
       #travel.homepage-travel.background-surf .background .the-background, #travel-inStyle.homepage-travel.background-surf .background .the-background {
-        background: url(../img/travel/hero-surf-mobile.png) bottom center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-surf-mobile.png) bottom center no-repeat;
         background-size: cover; } }
     @media (max-width: 320px) {
       #rewards.homepage-rewards.background-surf .background .the-background,
       #travel.homepage-travel.background-surf .background .the-background, #travel-inStyle.homepage-travel.background-surf .background .the-background {
-        background: url(../img/travel/hero-surf-mobile-small.jpg) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-surf-mobile-small.jpg) top center no-repeat;
         background-position-x: 0;
         background-size: cover; } }
   #rewards.homepage-rewards.background-bridge .section-header h2.rewards-title, #rewards.homepage-rewards.background-bridge h1,
@@ -7585,12 +7585,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #303030; }
   #rewards.homepage-rewards.background-bridge .background .the-background,
   #travel.homepage-travel.background-bridge .background .the-background, #travel-inStyle.homepage-travel.background-bridge .background .the-background {
-    background: url(../img/travel/hero-bridge.png) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-bridge.png) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-bridge .background .the-background,
       #travel.homepage-travel.background-bridge .background .the-background, #travel-inStyle.homepage-travel.background-bridge .background .the-background {
-        background: url(../img/travel/hero-bridge-mobile.png) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-bridge-mobile.png) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-woman-headphones .section-header h2.rewards-title, #rewards.homepage-rewards.background-woman-headphones h1,
   #travel.homepage-travel.background-woman-headphones .section-header h2.rewards-title,
@@ -7611,12 +7611,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     min-height: 10px; }
   #rewards.homepage-rewards.background-woman-headphones .background .the-background,
   #travel.homepage-travel.background-woman-headphones .background .the-background, #travel-inStyle.homepage-travel.background-woman-headphones .background .the-background {
-    background: url(../img/travel/hero-woman-headphones.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-woman-headphones.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-woman-headphones .background .the-background,
       #travel.homepage-travel.background-woman-headphones .background .the-background, #travel-inStyle.homepage-travel.background-woman-headphones .background .the-background {
-        background: url(../img/travel/hero-woman-headphones2-mobile.png) bottom center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-woman-headphones2-mobile.png) bottom center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-woman-ipad .section-header h2.rewards-title, #rewards.homepage-rewards.background-woman-ipad h1,
   #travel.homepage-travel.background-woman-ipad .section-header h2.rewards-title,
@@ -7637,12 +7637,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     min-height: 10px; }
   #rewards.homepage-rewards.background-woman-ipad .background .the-background,
   #travel.homepage-travel.background-woman-ipad .background .the-background, #travel-inStyle.homepage-travel.background-woman-ipad .background .the-background {
-    background: url(../img/travel/hero-woman-ipad.jpg) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/hero-woman-ipad.jpg) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-woman-ipad .background .the-background,
       #travel.homepage-travel.background-woman-ipad .background .the-background, #travel-inStyle.homepage-travel.background-woman-ipad .background .the-background {
-        background: url(../img/travel/hero-woman-ipad-mobile.jpg) top center no-repeat;
+        background: url(/content/dam/citi/img/travel/hero-woman-ipad-mobile.jpg) top center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards.background-travel-style .section-header h2.rewards-title, #rewards.homepage-rewards.background-travel-style h1,
   #travel.homepage-travel.background-travel-style .section-header h2.rewards-title,
@@ -7662,12 +7662,12 @@ button.prev-arrow:focus, button.next-arrow:focus {
     color: #303030; }
   #rewards.homepage-rewards.background-travel-style .background .the-background,
   #travel.homepage-travel.background-travel-style .background .the-background, #travel-inStyle.homepage-travel.background-travel-style .background .the-background {
-    background: url(../img/travel/travel-style.png) top center no-repeat;
+    background: url(/content/dam/citi/img/travel/travel-style.png) top center no-repeat;
     background-size: cover; }
     @media (max-width: 767px) {
       #rewards.homepage-rewards.background-travel-style .background .the-background,
       #travel.homepage-travel.background-travel-style .background .the-background, #travel-inStyle.homepage-travel.background-travel-style .background .the-background {
-        background: url(../img/travel/travel-style-mobile.png) bottom center no-repeat;
+        background: url(/content/dam/citi/img/travel/travel-style-mobile.png) bottom center no-repeat;
         background-size: cover; } }
   #rewards.homepage-rewards .section-header,
   #travel.homepage-travel .section-header, #travel-inStyle.homepage-travel .section-header {
@@ -11037,7 +11037,7 @@ section.parker {
     color: #444444; }
   section.parker .parker-header {
     background-repeat: no-repeat;
-    background-image: url("../img/parker-header_2x.jpg");
+    background-image: url("/content/dam/citi/img/parker-header_2x.jpg");
     background-size: cover;
     background-position: top right;
     width: 100%;
@@ -11060,7 +11060,7 @@ section.parker {
       section.parker .parker-intro h1:before {
         content: '';
         background-repeat: no-repeat;
-        background-image: url("../../img/parker-tools.gif");
+        background-image: url("/content/dam/citi/img/parker-tools.gif");
         width: 28px;
         height: 29px;
         display: inline-block;
@@ -11116,7 +11116,7 @@ section.parker {
       padding: 0 30px 0 30px; } }
   @media only screen and (max-width: 630px) {
     section.parker .parker-header {
-      background-image: url("../img/parker-header.jpg");
+      background-image: url("/content/dam/citi/img/parker-header.jpg");
       height: 150px; } }
 
 .plp-wrapper {
@@ -11545,7 +11545,7 @@ PLP product list
   margin-top: 29px; }
 
 .points-transfer-detail-hero {
-  background: transparent url("../../img/points-transfer/hilton-honors-hero.jpg") center no-repeat;
+  background: transparent url("/content/dam/citi/img/points-transfer/hilton-honors-hero.jpg") center no-repeat;
   background-size: auto 100%;
   color: white;
   min-height: 200px;
@@ -11556,7 +11556,7 @@ PLP product list
   width: 100%; }
   @media (max-width: 767px) {
     .points-transfer-detail-hero {
-      background-image: url("../../img/points-transfer/hilton-honors-hero_mobile.jpg");
+      background-image: url("/content/dam/citi/img/points-transfer/hilton-honors-hero_mobile.jpg");
       background-size: cover; } }
   .points-transfer-detail-hero-logo {
     display: block;
@@ -11610,7 +11610,7 @@ PLP product list
         .points-transfer-detail-hero-description.with-padding {
           padding: 0 calc(100% * (350/1500)); } }
   .points-transfer-detail-hero.sears-promo {
-    background-image: url("../../img/points-transfer/sears-hero.jpg"); }
+    background-image: url("/content/dam/citi/img/points-transfer/sears-hero.jpg"); }
 
 .points-transfer-detail-points-calculation {
   margin-bottom: 0;
@@ -12139,7 +12139,7 @@ PLP product list
       .points-transfer-detail-signup-cta {
         margin-top: 23px; } }
   .points-transfer-detail-promotion-banner {
-    background: #cecece url("../../img/points-transfer/promotion-background.jpg") center no-repeat;
+    background: #cecece url("/content/dam/citi/img/points-transfer/promotion-background.jpg") center no-repeat;
     background-size: cover;
     color: white;
     min-height: 75px;
@@ -12604,11 +12604,11 @@ PLP product list
         padding-right: 6px;
         vertical-align: middle; }
       .points-transfer-landing-body-points-reward-content-eyebrow.reward-type-air:before, .points-transfer-landing-body-points-reward-logo-eyebrow.reward-type-air:before {
-        background-image: url("../../img/points-transfer/air-icon.png"); }
+        background-image: url("/content/dam/citi/img/points-transfer/air-icon.png"); }
       .points-transfer-landing-body-points-reward-content-eyebrow.reward-type-hotel:before, .points-transfer-landing-body-points-reward-logo-eyebrow.reward-type-hotel:before {
-        background-image: url("../../img/points-transfer/hotel-icon.png"); }
+        background-image: url("/content/dam/citi/img/points-transfer/hotel-icon.png"); }
       .points-transfer-landing-body-points-reward-content-eyebrow.reward-type-retail:before, .points-transfer-landing-body-points-reward-logo-eyebrow.reward-type-retail:before {
-        background-image: url("../../img/points-transfer/retail-icon.png"); }
+        background-image: url("/content/dam/citi/img/points-transfer/retail-icon.png"); }
     .points-transfer-landing-body-points-reward-logo-eyebrow {
       display: none; }
     .points-transfer-landing-body-points-reward-logo {
@@ -13744,14 +13744,14 @@ img:not([alt]):before {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../img/bg-shop-amazon.jpg"); }
+  background-image: url("/content/dam/citi/img/bg-shop-amazon.jpg"); }
   .section-header-shop-with-points .section-header-title {
     line-height: 37px; }
   .section-header-shop-with-points .section-header-subtitle {
     margin-bottom: 46px; }
   .section-header-shop-with-points.bg-shop-amazon-2 {
     background-position: top center;
-    background-image: url("../img/bg-shop-amazon-2.jpg"); }
+    background-image: url("/content/dam/citi/img/bg-shop-amazon-2.jpg"); }
     @media (min-width: 1350px) {
       .section-header-shop-with-points.bg-shop-amazon-2 {
         background-size: contain;
@@ -13773,7 +13773,7 @@ img:not([alt]):before {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url("../img/banners/bg-select-and-credit.jpg");
+  background-image: url("/content/dam/citi/img/banners/bg-select-and-credit.jpg");
   height: 462px;
   padding-top: 74px; }
   .section-header-select-and-credit .section-header-title {
@@ -13789,7 +13789,7 @@ img:not([alt]):before {
 
 /* Select And Credit Taiwan Background */
 .section-header-select-and-credit.bg-select-and-credit-tw {
-  background-image: url("../img/banners/bg-select-and-credit-tw.jpg");
+  background-image: url("/content/dam/citi/img/banners/bg-select-and-credit-tw.jpg");
   color: white;
   padding-top: 65px; }
   .section-header-select-and-credit.bg-select-and-credit-tw .section-header-subtitle {
@@ -13804,7 +13804,7 @@ img:not([alt]):before {
 
 /* Select And Credit Malaysia Background */
 .section-header-select-and-credit.bg-select-and-credit-my {
-  background-image: url("../img/banners/bg-select-and-credit-my.jpg");
+  background-image: url("/content/dam/citi/img/banners/bg-select-and-credit-my.jpg");
   padding-top: 83px; }
 
 .how-it-works {

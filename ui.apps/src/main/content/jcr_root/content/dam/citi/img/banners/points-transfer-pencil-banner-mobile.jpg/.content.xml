@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="822ee3f6-535d-483d-b193-520fefbe31d6">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="citi/img/banners/points-transfer-pencil-banner-mobile.jpg"
+        jcr:lastModified="{Date}2018-04-16T15:23:25.119+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2018-04-16T15:23:24.873+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="dbe13365050b5a17cc2eeae1d588092ac972f94a"
+            dam:size="{Long}28220"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}120"
+            tiff:ImageWidth="{Long}320"
+            xmp:CreatorTool="Adobe Photoshop CS6 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:FD811E8F80ED11E6AED6BFDFCD7DE139"
+            xmpMM:InstanceID="xmp.iid:FD811E8E80ED11E6AED6BFDFCD7DE139"
+            xmpMM:OriginalDocumentID="xmp.did:56b84207-3295-4fe9-bf7d-8874b601307b"
+            xmpRights:Marked="{Boolean}false">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:e67f12ca-d74a-1178-b310-881598dccace"
+                stRef:instanceID="xmp.iid:C85C1B9CC1206811822AD40E7FFABE32"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

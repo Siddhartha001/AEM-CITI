@@ -467,28 +467,28 @@ table {
  * =======================================================*/
 @font-face {
   font-family: "InterstateBold";
-  src: url("../fonts/Interstate-Bold.eot");
-  src: url("../fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Bold.woff") format("woff"), url("../fonts/Interstate-Bold.ttf") format("truetype"), url("../fonts/Interstate-Bold.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Bold.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Bold.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Bold.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateExtraLight";
-  src: url("../fonts/Interstate-ExtraLight.eot");
-  src: url("../fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-ExtraLight.woff") format("woff"), url("../fonts/Interstate-ExtraLight.ttf") format("truetype"), url("../fonts/Interstate-ExtraLight.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-ExtraLight.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateLight";
-  src: url("../fonts/Interstate-Light.eot");
-  src: url("../fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Light.woff") format("woff"), url("../fonts/Interstate-Light.ttf") format("truetype"), url("../fonts/Interstate-Light.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Light.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Light.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Light.svg#citi") format("svg");
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateRegular";
-  src: url("../fonts/Interstate-Regular.eot");
-  src: url("../fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Regular.woff") format("woff"), url("../fonts/Interstate-Regular.ttf") format("truetype"), url("../fonts/Interstate-Regular.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Regular.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Regular.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Regular.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -497,8 +497,8 @@ glyphs Webfont
 */
 @font-face {
   font-family: 'glyphs';
-  src: url("../fonts/glyphs.eot");
-  src: url("../fonts/glyphs.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphs.woff") format("woff"), url("../fonts/glyphs.ttf") format("truetype"), url("../fonts/glyphs.svg#glyphs") format("svg");
+  src: url("/content/dam/citi/fonts/glyphs.eot");
+  src: url("/content/dam/citi/fonts/glyphs.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/glyphs.woff") format("woff"), url("/content/dam/citi/fonts/glyphs.ttf") format("truetype"), url("/content/dam/citi/fonts/glyphs.svg#glyphs") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1213,7 +1213,7 @@ input[type="text"], input[type="password"] {
     padding-right: 5px;
     padding-left: 5px;
     height: 75px;
-    background: url(../img/bg-gradient-header.jpg) repeat-x scroll left top transparent; }
+    background: url(/content/dam/citi/img/bg-gradient-header.jpg) repeat-x scroll left top transparent; }
     #header-desktop .bluewave .logo-desktop-brand {
       margin: 19px 0px 0px 0px; }
   #header-desktop #header-cart-default, #header-desktop #header-cart-alternate {

@@ -20,28 +20,28 @@
  * =======================================================*/
 @font-face {
   font-family: "InterstateBold";
-  src: url("../fonts/Interstate-Bold.eot");
-  src: url("../fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Bold.woff") format("woff"), url("../fonts/Interstate-Bold.ttf") format("truetype"), url("../fonts/Interstate-Bold.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Bold.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Bold.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Bold.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Bold.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateExtraLight";
-  src: url("../fonts/Interstate-ExtraLight.eot");
-  src: url("../fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-ExtraLight.woff") format("woff"), url("../fonts/Interstate-ExtraLight.ttf") format("truetype"), url("../fonts/Interstate-ExtraLight.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot");
+  src: url("/content/dam/citi/fonts/Interstate-ExtraLight.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-ExtraLight.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-ExtraLight.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateLight";
-  src: url("../fonts/Interstate-Light.eot");
-  src: url("../fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Light.woff") format("woff"), url("../fonts/Interstate-Light.ttf") format("truetype"), url("../fonts/Interstate-Light.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Light.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Light.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Light.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Light.svg#citi") format("svg");
   font-style: normal; }
 
 @font-face {
   font-family: "InterstateRegular";
-  src: url("../fonts/Interstate-Regular.eot");
-  src: url("../fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Regular.woff") format("woff"), url("../fonts/Interstate-Regular.ttf") format("truetype"), url("../fonts/Interstate-Regular.svg#citi") format("svg");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot");
+  src: url("/content/dam/citi/fonts/Interstate-Regular.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/Interstate-Regular.woff") format("woff"), url("/content/dam/citi/fonts/Interstate-Regular.ttf") format("truetype"), url("/content/dam/citi/fonts/Interstate-Regular.svg#citi") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -517,8 +517,8 @@ glyphs Webfont
 */
 @font-face {
   font-family: 'glyphs';
-  src: url("../fonts/glyphs.eot");
-  src: url("../fonts/glyphs.eot?#iefix") format("embedded-opentype"), url("../fonts/glyphs.woff") format("woff"), url("../fonts/glyphs.ttf") format("truetype"), url("../fonts/glyphs.svg#glyphs") format("svg");
+  src: url("/content/dam/citi/fonts/glyphs.eot");
+  src: url("/content/dam/citi/fonts/glyphs.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/glyphs.woff") format("woff"), url("/content/dam/citi/fonts/glyphs.ttf") format("truetype"), url("/content/dam/citi/fonts/glyphs.svg#glyphs") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -1102,8 +1102,8 @@ _:-ms-lang(x), _:-webkit-full-screen, .top-menu a.grid-back i.icon_caret-left {
 /* Icons */
 @font-face {
   font-family: "slick";
-  src: url("../fonts/slick.eot");
-  src: url("../fonts/slick.eot?#iefix") format("embedded-opentype"), url("../fonts/slick.woff") format("woff"), url("../fonts/slick.ttf") format("truetype"), url("../fonts/slick.svg#slick") format("svg");
+  src: url("/content/dam/citi/fonts/slick.eot");
+  src: url("/content/dam/citi/fonts/slick.eot?#iefix") format("embedded-opentype"), url("/content/dam/citi/fonts/slick.woff") format("woff"), url("/content/dam/citi/fonts/slick.ttf") format("truetype"), url("/content/dam/citi/fonts/slick.svg#slick") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -2405,7 +2405,7 @@ body.init #header-mobile ol {
     background: linear-gradient(to bottom, #16aeee 0%, #073677 100%); }
     @media (min-width: 960px) {
       #header-mobile .blue-wave {
-        background: url(../img/singapore/bg-gradient-header.jpg) top left repeat-x; } }
+        background: url(/content/dam/citi/img/singapore/bg-gradient-header.jpg) top left repeat-x; } }
   #header-mobile .orange-wave {
     width: 100%;
     border-top: 1px solid #fc910b;
@@ -2414,11 +2414,11 @@ body.init #header-mobile ol {
     color: #fff;
     position: absolute;
     top: 0;
-    background: url(../img/bg-gradient-att-header-mobile.jpg) top left repeat-x;
+    background: url(/content/dam/citi/img/bg-gradient-att-header-mobile.jpg) top left repeat-x;
     z-index: 100; }
     @media (min-width: 960px) {
       #header-mobile .orange-wave {
-        background: url(../img/bg-gradient-att-header.jpg) top left repeat-x; } }
+        background: url(/content/dam/citi/img/bg-gradient-att-header.jpg) top left repeat-x; } }
   #header-mobile #menu-button {
     position: absolute;
     left: 0;
@@ -3139,7 +3139,7 @@ body.init #header-mobile ol {
   #header-desktop .bluewave {
     border-top: 1px solid #0076c0;
     height: 75px;
-    background: url(../img/singapore/bg-gradient-header.jpg) top left repeat-x;
+    background: url(/content/dam/citi/img/singapore/bg-gradient-header.jpg) top left repeat-x;
     position: relative; }
     #header-desktop .bluewave .grid-container {
       position: relative; }
@@ -5486,7 +5486,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
   #bonappetit a.btn {
     color: #fff; }
   #bonappetit .section-header h1 {
-    background: url("../../img/bonappetit-logo2.png") bottom center no-repeat;
+    background: url("/content/dam/citi/img/bonappetit-logo2.png") bottom center no-repeat;
     background-size: cover;
     background-position: center;
     width: 133px;
@@ -5764,7 +5764,7 @@ button.prev-arrow:focus, button.next-arrow:focus {
     top: 0;
     height: 25px;
     z-index: 75;
-    background: url(../singapore/img/bg-shadow-top.png) top center no-repeat;
+    background: url(/content/dam/citi/img/bg-shadow-top.png) top center no-repeat;
     display: block; }
     #offers #offer-gradient.activated {
       display: block; }
