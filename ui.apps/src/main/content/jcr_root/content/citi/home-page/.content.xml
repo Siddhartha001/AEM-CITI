@@ -1,11 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2018-04-16T13:20:49.166+05:30"
+        cq:lastModified="{Date}2018-05-03T19:04:23.284+05:30"
         cq:lastModifiedBy="admin"
         cq:template="/conf/citi/settings/wcm/templates/home-page"
         jcr:primaryType="cq:PageContent"
         jcr:title="Home Page"
-        sling:resourceType="citi/components/structure/page"/>
+        sling:resourceType="citi/components/structure/page">
+        <root jcr:primaryType="nt:unstructured">
+            <responsivegrid
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="wcm/foundation/components/responsivegrid">
+                <travel
+                    jcr:created="{Date}2018-04-18T21:59:53.445+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2018-04-23T15:12:23.770+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="citi/components/content/travel"
+                    textIsRich="true"/>
+                <text
+                    jcr:created="{Date}2018-05-03T17:52:41.492+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2018-05-03T17:54:20.403+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="citi/components/content/text"
+                    text="&lt;p>This is my first line ....&amp;nbsp;&lt;/p>&#xa;"
+                    textIsRich="true"/>
+                <touchmulti
+                    jcr:created="{Date}2018-05-03T18:52:39.024+05:30"
+                    jcr:createdBy="admin"
+                    jcr:lastModified="{Date}2018-05-03T19:04:23.276+05:30"
+                    jcr:lastModifiedBy="admin"
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="citi/components/content/touchmulti"
+                    heading="Bring home your favourite merchandise with points."
+                    subheading="FEATURED CATEGORIES">
+                    <products jcr:primaryType="nt:unstructured">
+                        <item0
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/blender.png"
+                            link="#"
+                            product="Home"/>
+                        <item1
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/bigscreen.jpg"
+                            link="#"
+                            product="Electronics"/>
+                        <item2
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/watch.png"
+                            link="#"
+                            product="Watches"/>
+                        <item3
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/purse.png"
+                            link="#"
+                            product="Bags and Luggage"/>
+                        <item4
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/scale.png"
+                            link="#"
+                            product="Well-being"/>
+                        <item5
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/duck.png"
+                            link="#"
+                            product="Children"/>
+                        <item6
+                            jcr:primaryType="nt:unstructured"
+                            image="/content/dam/citi/img/gift-vouchers.png"
+                            link="#"
+                            product="Vouchers"/>
+                    </products>
+                </touchmulti>
+            </responsivegrid>
+        </root>
+    </jcr:content>
 </jcr:root>
