@@ -113,7 +113,7 @@
 						<Bundle-SymbolicName>com.epsilon.aem.citi.aem-citi</Bundle-SymbolicName>
 
 						<Sling-Model-Packages>
-							yes
+							com.epsilon.aem.citi.core
 						</Sling-Model-Packages>
 
 					</instructions>
