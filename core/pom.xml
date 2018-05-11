@@ -114,6 +114,7 @@
 
 						<Sling-Model-Packages>
 							com.epsilon.aem.citi.core
+							com.epsilon.aem.citi.service.core
 						</Sling-Model-Packages>
 
 					</instructions>
